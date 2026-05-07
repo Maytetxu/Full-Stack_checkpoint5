@@ -155,9 +155,7 @@ while cantidad < 10:
 ```
 Este código imprimirá los números del 0 al 9 en la consola. La variable cantidad comienza en 0 y se va incrementando en 1 hasta que llega a ser mayor o igual a 10, lo que hace que se deje de cumplir la condición.
 
-Dentro de los bucles en Python, también podemos utilizar las sentencias `break` y `continue` para controlar el flujo de ejecución.
-
-Termina el bucle y ejecuta el bloque de código que está después del bucle.
+Dentro de los bucles en Python, también podemos utilizar las sentencias `break` y `continue` para controlar el flujo de ejecución. Usando `brake` se rompe el bucle, es decir, finaliza, mientras que usando `continue` termina el bucle y ejecuta el bloque de código que está después del bucle.
 
 Veamos un ejemplo utilizando break para salir de un bucle for:
 
